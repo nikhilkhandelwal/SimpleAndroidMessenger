@@ -1,0 +1,1 @@
+A simple app to facilitate two way communication between android devices.
